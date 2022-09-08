@@ -6,5 +6,5 @@ warming" (started August 2021) and related projects that have ended.
 - [Radiative forcing timeseries](https://github.com/ciceroOslo/ClimSens/tree/main/Skeie_ACP_2011) from [Skeie et al. 2011](https://acp.copernicus.org/articles/11/11827/2011/). 
 
 ## More info
-Visit the projects [web-page](https://cicero.oslo.no/en/utrics) and the [project page](https://prosjektbanken.forskningsradet.no/en/project/FORISS/314997?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=score&sortOrder=desc&resultCount=30&offset=0&Fritekst=climate+sensitivity&Ar=2021) at the Norwegian Resarch Council.
+Visit the projects [web-page](https://cicero.oslo.no/en/projects/utrics) and the [project page](https://prosjektbanken.forskningsradet.no/en/project/FORISS/314997?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=score&sortOrder=desc&resultCount=30&offset=0&Fritekst=climate+sensitivity&Ar=2021) at the Norwegian Resarch Council.
 
